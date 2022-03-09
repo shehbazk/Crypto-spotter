@@ -1,0 +1,14 @@
+.carousel{
+    height: 50%;
+    display: flex;
+    align-items: center;
+}
+.carouselItem{
+    display: flex;
+    flex-direction: column !important;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #fafafa;
+}
